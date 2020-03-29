@@ -1,0 +1,17 @@
+{
+  "name": "nhentai_downloader",
+  "version": "0.0.1",
+  "description": "a simple image downloader for nhentai",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "hoeschendieb",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.5.0",
+    "nhentai-js": "^3.3.0",
+    "sanitize-filename": "^1.6.3"
+  },
+  "devDependencies": {}
+}
